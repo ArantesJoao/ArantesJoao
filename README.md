@@ -21,6 +21,7 @@ Information Systems student at Univesidade Federal de Santa Catarina
 [<img align="left" alt="HTML" width="18px" src="https://simpleicons.org/icons/html5.svg" />](https://html5.org/)
 [<img align="left" alt="Git" width="18px" src="https://simpleicons.org/icons/git.svg" />](https://git-scm.com/)
 <br>
+<br>
 ⭐⭐
 <br>
 <br>
@@ -28,6 +29,7 @@ Information Systems student at Univesidade Federal de Santa Catarina
 [<img align="left" alt="Javascript" width="18px" src="https://simpleicons.org/icons/javascript.svg" />](https://www.javascript.com/)
 [<img align="left" alt="Figma" width="18px" src="https://simpleicons.org/icons/figma.svg" />](https://www.figma.com/)
 [<img align="left" alt="Cypress" width="18px" src="https://simpleicons.org/icons/cypress.svg" />](https://www.cypress.io/)
+<br>
 <br>
 ⭐
 <br>
