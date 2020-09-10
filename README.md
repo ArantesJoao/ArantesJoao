@@ -6,7 +6,6 @@
 Information Systems student at Univesidade Federal de Santa Catarina
 
 🏠 Florianópolis, SC, Brazil    
-<br>
 🛠️ Always trying to learn more about systems development and software engineering
 <br>
 
