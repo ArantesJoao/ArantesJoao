@@ -5,7 +5,7 @@
 Information Systems student at Univesidade Federal de Santa Catarina
 
 🏠 Florianópolis, SC, Brazil    
-🔗 [My LinkedIn](https://www.linkedin.com/in/joaovictorarantes/)<br>
+[<img align="left" alt="LinkedIn" width="18px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/joaovictorarantes) [My LinkedIn](https://www.linkedin.com/in/joaovictorarantes/)<br>
 🛠️ Always trying to learn more about systems development and software engineering
 <br>
 
