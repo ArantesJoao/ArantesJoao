@@ -1,11 +1,11 @@
 
 
 
-## João Víctor Arantes 🇧🇷
+## João Víctor Arantes [<img align="left" alt="LinkedIn" width="18px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/joaovictorarantes)
 Information Systems student at Univesidade Federal de Santa Catarina
 
 🏠 Florianópolis, SC, Brazil    
-[<img align="left" alt="LinkedIn" width="18px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/joaovictorarantes) [My LinkedIn](https://www.linkedin.com/in/joaovictorarantes/)<br>
+<br>
 🛠️ Always trying to learn more about systems development and software engineering
 <br>
 
