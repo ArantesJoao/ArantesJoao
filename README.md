@@ -11,11 +11,11 @@ Information Systems student at Univesidade Federal de Santa Catarina
 ### Programming languages and Tools:
 
 ### ⭐⭐⭐
-[<img align="left" alt="Python" width="18px" src="https://simpleicons.org/icons/python.svg" />](https://www.python.org/)
-[<img align="left" alt="Pycharm" width="18px" src="https://simpleicons.org/icons/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="Python" width="21px" src="https://simpleicons.org/icons/python.svg" />](https://www.python.org/)
+[<img align="left" alt="Pycharm" width="21px" src="https://simpleicons.org/icons/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="JupyterNotebook" width="18px" src="https://simpleicons.org/icons/jupyter.svg" />](https://jupyter.org/)
-[<img align="left" alt="HTML" width="18px" src="https://simpleicons.org/icons/html5.svg" />](https://html5.org/)
-[<img align="left" alt="Git" width="18px" src="https://simpleicons.org/icons/git.svg" />](https://git-scm.com/)
+[<img align="left" alt="HTML" width="21px" src="https://simpleicons.org/icons/html5.svg" />](https://html5.org/)
+[<img align="left" alt="Git" width="21px" src="https://simpleicons.org/icons/git.svg" />](https://git-scm.com/)
 <br>
 ### ⭐⭐
 [<img align="left" alt="Expo" width="18px" src="https://simpleicons.org/icons/expo.svg" />](https://expo.io)
