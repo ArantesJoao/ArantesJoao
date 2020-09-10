@@ -9,8 +9,6 @@ Information Systems student at Univesidade Federal de Santa Catarina
 🛠️ Always trying to learn more about systems development and software engineering
 <br>
 
-### Programming languages and Tools:
-
 ### ★★★
 [<img align="left" alt="Python" width="18px" src="https://simpleicons.org/icons/python.svg" />](https://www.python.org/)
 [<img align="left" alt="Pycharm" width="18px" src="https://simpleicons.org/icons/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
