@@ -29,4 +29,4 @@ Information Systems student at Univesidade Federal de Santa Catarina
 [<img align="left" alt="MongoDB" width="18px" src="https://simpleicons.org/icons/mongodb.svg" />](https://www.mongodb.com/)
 [<img align="left" alt="Insomnia" width="18px" src="https://simpleicons.org/icons/insomnia.svg" />](https://insomnia.rest/)
 [<img align="left" alt="React" width="18px" src="https://simpleicons.org/icons/react.svg" />](https://pt-br.reactjs.org/)
-[<img align="left" alt="R" width="18px" src="https://simpleicons.org/icons/r.svg" />](https://www.r-project.org)
+[<img align="left" alt="VSCode" width="18px" src="https://simpleicons.org/icons/virtualstudiocode.svg" />](https://code.visualstudio.com/)
