@@ -13,6 +13,7 @@ Information Systems student at Univesidade Federal de Santa Catarina
 
 #### ★★★
 [<img alt="Python" width="18px" src="https://simpleicons.org/icons/python.svg" />](https://www.python.org/)
+[<img align="left" alt="VSCode" width="18px" src="https://simpleicons.org/icons/visualstudiocode.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="Pycharm" width="18px" src="https://simpleicons.org/icons/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="JupyterNotebook" width="18px" src="https://simpleicons.org/icons/jupyter.svg" />](https://jupyter.org/)
 [<img align="left" alt="HTML" width="18px" src="https://simpleicons.org/icons/html5.svg" />](https://html5.org/)
@@ -29,4 +30,3 @@ Information Systems student at Univesidade Federal de Santa Catarina
 [<img align="left" alt="MongoDB" width="18px" src="https://simpleicons.org/icons/mongodb.svg" />](https://www.mongodb.com/)
 [<img align="left" alt="Insomnia" width="18px" src="https://simpleicons.org/icons/insomnia.svg" />](https://insomnia.rest/)
 [<img align="left" alt="React" width="18px" src="https://simpleicons.org/icons/react.svg" />](https://pt-br.reactjs.org/)
-[<img align="left" alt="VSCode" width="18px" src="https://simpleicons.org/icons/virtualstudiocode.svg" />](https://code.visualstudio.com/)
