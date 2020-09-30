@@ -26,6 +26,7 @@ Information Systems student at Univesidade Federal de Santa Catarina
 [<img align="left" alt="Insomnia" width="18px" src="https://simpleicons.org/icons/insomnia.svg" />](https://insomnia.rest/)
 [<img align="left" alt="Cypress" width="18px" src="https://simpleicons.org/icons/postman.svg" />](https://postman.com/)
 [<img align="left" alt="Cypress" width="18px" src="https://simpleicons.org/icons/cypress.svg" />](https://www.cypress.io/)
+[<img align="left" alt="Json" width="18px" src="https://simpleicons.org/icons/json.svg" />](www.json.org/)
 <br>
 #### ★
 [<img alt="Pandas" width="18px" src="https://simpleicons.org/icons/pandas.svg" />](https://pandas.pydata.org/)
