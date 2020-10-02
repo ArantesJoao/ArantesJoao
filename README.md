@@ -9,7 +9,7 @@ Information Systems student at Univesidade Federal de Santa Catarina
 🛠️ Always trying to learn more about systems development and software engineering
 <br>
 
-### Programming languages and Tools:
+### Programming languages and Tools: 
 
 #### ★★★
 [<img alt="HTML" width="18px" src="https://simpleicons.org/icons/html5.svg" />](https://html5.org/)
