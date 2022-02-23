@@ -5,8 +5,7 @@
 
 Information Systems student at Univesidade Federal de Santa Catarina
 
-🏠 Florianópolis, SC, Brazil    
-🛠️ Always trying to learn more about systems development and software engineering  
+🏠 Florianópolis, SC, Brazil
 💼 Currently working at HSystem as developer
 <br>
 
