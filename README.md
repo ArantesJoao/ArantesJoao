@@ -10,7 +10,7 @@ Information Systems student at Univesidade Federal de Santa Catarina
 💼 Currently working at HSystem as developer
 <br>
 
-### Programming languages and Tools:
+### Programming Languages and Tools:
 
 #### ★★★
 [<img align="left" alt="Python" width="18px" src="https://simpleicons.org/icons/python.svg" />](https://www.python.org/)
