@@ -13,7 +13,7 @@ Information Systems student at Univesidade Federal de Santa Catarina
 ### Programming Languages and Tools:
 
 #### ★★★
-[<img align="left" alt="C#" width="18px" src="https://simpleicons.org/icons/csharp.svg" />](https://learn.microsoft.com/dotnet/csharp/)" 
+[<img align="left" alt="C#" width="18px" src="https://simpleicons.org/icons/csharp.svg" />](https://learn.microsoft.com/dotnet/csharp/)
 [<img align="left" alt="Javascript" width="18px" src="https://simpleicons.org/icons/javascript.svg" />](https://www.javascript.com/)
 [<img align="left" alt="VSCode" width="18px" src="https://simpleicons.org/icons/visualstudiocode.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="VisualStudio" width="18px" src="https://simpleicons.org/icons/visualstudio.svg" />](https://visualstudio.microsoft.com/pt-br/)
