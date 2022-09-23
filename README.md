@@ -21,6 +21,7 @@ Information Systems student at Univesidade Federal de Santa Catarina
 [<img alt="HTML" width="18px" src="https://simpleicons.org/icons/html5.svg" />](https://html5.org/)
 <br>
 #### ★★
+[<img align="left" alt="React" width="18px" src="https://simpleicons.org/icons/react.svg" />](https://pt-br.reactjs.org/)
 [<img align="left" alt="Pycharm" width="18px" src="https://simpleicons.org/icons/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Expo" width="18px" src="https://simpleicons.org/icons/expo.svg" />](https://expo.io)
 [<img align="left" alt="CSharp" width="18px" src="https://simpleicons.org/icons/csharp.svg" />](https://docs.microsoft.com/pt-br/dotnet/csharp/)
@@ -32,5 +33,4 @@ Information Systems student at Univesidade Federal de Santa Catarina
 [<img alt="Figma" width="18px" src="https://simpleicons.org/icons/figma.svg" />](https://www.figma.com/)
 <br>
 #### ★
-[<img align="left" alt="React" width="18px" src="https://simpleicons.org/icons/react.svg" />](https://pt-br.reactjs.org/)
 [<img alt="Pandas" width="18px" src="https://simpleicons.org/icons/pandas.svg" />](https://pandas.pydata.org/)
