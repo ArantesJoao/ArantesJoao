@@ -1,9 +1,7 @@
 
-
-
 ## João Víctor Arantes  [<img alt="LinkedIn" width="18px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/joaovictorarantes)
 
-Information Systems student at Univesidade Federal de Santa Catarina
+Information Systems Graduate by the Federal University of Santa Catarina
 
 🏠 Florianópolis, SC, Brazil
 
