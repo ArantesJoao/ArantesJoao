@@ -5,4 +5,4 @@ Full Stack developer with a special love for Front End. Also an Information Syst
 
 🏠 Florianópolis, SC, Brazil
 
-💼 Currently working remotly at HSystem as a fullstack developer
+💼 Currently working at Mercado Livre Brasil as a Semisenior Software Engineer.
